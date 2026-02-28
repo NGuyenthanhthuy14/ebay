@@ -21,11 +21,11 @@ const Footer = () => {
   return (
     <footer className="bg-[#1f1f1f] text-gray-400 pt-20 pb-10 px-6 md:px-20 relative">
       
-		<div className="absolute -top-5 left-6 md:left-20 z-20">
+		<div className="absolute -top-4 left-6 md:left-20 z-20">
 			<div className="relative bg-[#3498db] text-white px-6 py-2 text-xl shadow-lg font-handwriting">
 				Liên hệ ngay
 
-				<div className="absolute top-1 -left-2.5 
+				<div className="absolute -top-px -left-2.5 
 												w-0 h-4 
 												border-t-17 border-t-transparent
 												border-r-10 border-r-[#1f5f8a]">
